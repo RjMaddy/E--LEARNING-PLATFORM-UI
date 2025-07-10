@@ -41,3 +41,5 @@ The project structure is modular: HTML files are cleanly separated, CSS is writt
 ---
 
 ## 📂 Folder Structure
+#OUTPUT
+<img width="1889" height="1043" alt="Image" src="https://github.com/user-attachments/assets/30bde7b8-3c7b-4c91-b91c-c5cb080ee5ed" />
